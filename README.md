@@ -1,0 +1,1 @@
+Drag and drop the extension file in the extension page in Chrome (or any Chromium browser)
